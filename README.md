@@ -81,20 +81,3 @@ This Hotel Management Application is built using the following technologies and 
 3. Styled Component (Styling)
 4. NodeJs, ExpressJs (Back-end)
 5. Supabase (Database)
-
-## Contributing 💡
-
-Pull requests are welcome but please open an issue and discuss what you will do before 😊
-
-## Known Bugs 🚨
-
-Feel free to email me at lakshman.gope2@gmail.com if you run into any issues or have questions, ideas or concerns.
-Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
-
-## Future Updates 🪴
-
--   Enable PWA
--   Improve overall UX/UI and fix bugs
--   Featured Tours
--   Recently Viewed Tours
--   And More! There's always 
